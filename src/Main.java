@@ -17,5 +17,11 @@ public class Main {
                 0.50,
                 20,
                 "Blanca con flores rosas");
+
+
+        sully.Espantar();
+        Bo.llorar();
+
     }
+
 }

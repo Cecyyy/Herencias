@@ -23,6 +23,6 @@ public class Chamaca extends Personaje{
         System.out.println("Jajajajaja");
     }
     public void llorar(){
-        System.out.println("WEEEEEE, WEEEEE ");
+        System.out.println("pipipipipi");
     }
 }
