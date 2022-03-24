@@ -25,4 +25,5 @@ public class Chamaca extends Personaje{
     public void llorar(){
         System.out.println("pipipipipi");
     }
+
 }
