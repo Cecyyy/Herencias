@@ -11,5 +11,11 @@ public class Main {
                 true,
                 "Azul",
                 new ArrayList<>(Arrays.asList("Fuerte","Carismaticos","Gentil")));
+
+        Chamaca Bo = new Chamaca(
+                "Boo",
+                0.50,
+                20,
+                "Blanca con flores rosas");
     }
 }

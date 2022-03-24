@@ -50,7 +50,7 @@ public class Mounstruo extends Personaje{
         this.tentaculos = tentaculos;
         this.color = color;
         this.habilidades = habilidades;
-        System.out.println("SOY EL CONSTRUCTOR HIJO");
+        System.out.println("Soy el constructor Mounstruo");
     }
 
     // Espantar

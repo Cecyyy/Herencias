@@ -14,6 +14,7 @@ public class Chamaca extends Personaje{
     public Chamaca(String nombre, double estatura, double opeso, String colorPuerta) {
         super(nombre, estatura, opeso);
         this.colorPuerta = colorPuerta;
+        System.out.println("Estoy en el contructor de los Chamacos");
     }
 
     //Reir
